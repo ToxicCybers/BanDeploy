@@ -1,5 +1,4 @@
 pyrogram==1.4.16
-pymongo
 requests
 dnspython
 tgcrypto==1.2.2
@@ -48,7 +47,6 @@ ujson
 pretty_errors
 pygithub
 TgCrypto
-pyrogram==1.4.16
 PyDictionary
 git+https://github.com/Sorrybabe/downloader
 youtube_search_python==1.4.9
